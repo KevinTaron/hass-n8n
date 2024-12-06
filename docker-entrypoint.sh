@@ -2,6 +2,7 @@
 
 CONFIG_PATH="/data/options.json"
 N8N_PATH="/data/n8n"
+CUSTOM_EXTENSIONS_PATH="/custom"
 
 mkdir -p "${N8N_PATH}/.n8n/.cache"
 
