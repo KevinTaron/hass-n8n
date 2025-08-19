@@ -1,6 +1,6 @@
 {
   "name": "Kevin Hass n8n",
-  "version": "1.0.77",
+  "version": "1.0.78",
   "slug": "k-hass-n8n",
   "description": "Self host your n8n instance",
   "url": "https://github.com/KevinTaron/hass-n8n",
